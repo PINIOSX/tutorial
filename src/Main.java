@@ -7,4 +7,7 @@ public class Main {
     public void newMethod() {
         System.out.println("do something");
     }
+    public void newMethod2(){
+        System.out.println("do something2");
+    }
 }
