@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7be0dd6d-6da8-44b1-84e1-cb6c01cb6fb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,12 +17,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
             <state relative-caret-position="136">
               <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+=======
+            <state relative-caret-position="204">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+>>>>>>> local
               <folding>
+                <element signature="e#145#146#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
+<<<<<<< master
                 <element signature="e#225#226#0" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
+=======
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+>>>>>>> local
               </folding>
             </state>
           </provider>
@@ -50,8 +64,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -99,18 +113,27 @@
       <option name="presentableId" value="Default" />
       <updated>1554136104180</updated>
       <workItem from="1554136106798" duration="11000" />
+<<<<<<< master
       <workItem from="1554136568075" duration="130000" />
+=======
+      <workItem from="1554136568075" duration="41000" />
+      <workItem from="1554138066984" duration="185000" />
+>>>>>>> local
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< master
     <option name="totallyTimeSpent" value="141000" />
+=======
+    <option name="totallyTimeSpent" value="333000" />
+>>>>>>> local
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -147,12 +170,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
         <state relative-caret-position="136">
           <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+=======
+        <state relative-caret-position="204">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+>>>>>>> local
           <folding>
+            <element signature="e#145#146#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
+<<<<<<< master
             <element signature="e#225#226#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
+=======
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+>>>>>>> local
           </folding>
         </state>
       </provider>
