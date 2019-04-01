@@ -10,7 +10,5 @@ public class Main {
     public void newMethod2(){
         System.out.println("do something2");
     }
-    public void conflict(){
-        System.out.println("conflict");
-    }
+
 }
