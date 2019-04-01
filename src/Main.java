@@ -10,5 +10,7 @@ public class Main {
     public void newMethod2(){
         System.out.println("do something2");
     }
-
+    public void newMethod5(){
+        System.out.println("do something2");
+    }
 }
